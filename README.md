@@ -1,0 +1,1 @@
+This is employee retention ml model building project in zip file we have python code and a report stating our insights
